@@ -22,6 +22,6 @@ We appreciate your help in improving the CI Testing Automation project!
 - Follow the existing code style to maintain consistency.
 - Write tests for new features and ensure existing tests pass.
 - Update relevant documentation as needed.
-- Ensure your pull request has a descriptive title and detailed explanation of your changes.
+- Ensure your pull request has a descriptive title and a detailed explanation of your changes.
 
 Thank you for contributing!
