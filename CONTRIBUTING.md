@@ -8,9 +8,9 @@ We appreciate your help in improving the CI Testing Automation project!
    ```bash
    git checkout -b feature/your-feature-name
    ```
-3. **Make your changes** and commit them:
+3. **Make your changes** and commit them with a clear message:
    ```bash
-   git commit -m 'Add a new feature'
+   git commit -m 'Add a new feature or fix issue'
    ```
 4. **Push your changes** to your fork:
    ```bash
