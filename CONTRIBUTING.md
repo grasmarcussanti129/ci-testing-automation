@@ -12,6 +12,7 @@ We appreciate your help in improving the CI Testing Automation project!
    ```bash
    git commit -m 'Add a new feature or fix issue'
    ```
+   _Note: Use present tense for commit messages and include the issue number if applicable._
 4. **Push your changes** to your fork:
    ```bash
    git push origin feature/your-feature-name
