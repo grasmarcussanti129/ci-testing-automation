@@ -1,0 +1,8 @@
+ci_tool: "github_actions"
+language: "python"
+tests:
+  - command: "pytest"
+    paths:
+      - "tests/*"
+notifications:
+  webhook: "https://hooks.example.com/ci"
