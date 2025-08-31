@@ -1,7 +1,7 @@
 # Setup Instructions
 
 ## Prerequisites
-- Ensure you have the necessary programming language and framework installed on your machine (e.g., Node.js (version 14 or later), Python (version 3.7 or later, preferably the latest minor version)).
+- Ensure you have the necessary programming language and framework installed on your machine (e.g., Node.js (version 14 or later), Python (version 3.10 or later, preferably the latest minor version)).
 - Have access to a CI/CD tool of your choice (e.g., GitHub Actions, Jenkins).
 
 ## Installation
